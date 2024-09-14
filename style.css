@@ -96,6 +96,10 @@ h1 {
     padding-bottom: 3rem;
 }
 
+button {
+    cursor: pointer;
+}
+
 p,
 button {
     font-family: 'Inter', sans-serif;
